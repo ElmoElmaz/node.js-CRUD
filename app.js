@@ -4,7 +4,7 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 require('dotenv').config()
 const app = express(); // za lokalna upotreba 
-const PORT = 5000;
+const PORT = 6000;
 
 
 //Midleware
